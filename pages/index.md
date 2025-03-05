@@ -5,7 +5,7 @@ sidebar_position: 1
 <!-- Titre principal -->
 <p class="title-css"> Les requêtes SQL</p>
 
-Yo ! Yo ! Yo !
+Le Petit Scientist 😎
 
 - [1 - L'opérateur WHERE](/Where/)
 - [2 - Les opérateurs AND et OR](/And_Or/)
