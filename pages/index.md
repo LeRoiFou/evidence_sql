@@ -5,7 +5,7 @@ sidebar_position: 1
 <!-- Titre principal -->
 <p class="title-css"> Les requêtes SQL</p>
 
-\*Editeur : Laurent REYNAUD 😁
+Editeur : Laurent REYNAUD 😁
 
 - [1 - L'opérateur WHERE](/Where/)
 - [2 - Les opérateurs AND et OR](/And_Or/)
