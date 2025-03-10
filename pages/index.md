@@ -5,6 +5,11 @@ sidebar_position: 1
 <!-- Titre principal -->
 <p class="title-css"> Les requêtes SQL</p>
 
+<<<<<<< HEAD
+=======
+Le Petit Scientist 😎
+
+>>>>>>> 7930e99c0759f4eabf9f7ee3bb9a16509403cdac
 - [1 - L'opérateur WHERE](/Where/)
 - [2 - Les opérateurs AND et OR](/And_Or/)
 - [3 - L'opérateur IN](/In/)
