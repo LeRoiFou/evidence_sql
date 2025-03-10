@@ -6,7 +6,9 @@ sidebar_position: 13
 
 ---
 
-## <u>Le n° ID des 10 employés qui réalisent le CAHT le plus élevé</u>
+## <u>Requête n° 1</u>
+
+_Le n° ID des 10 employés qui réalisent le CAHT le plus élevé_
 
 <!-- Requête SQL -->
 
@@ -47,7 +49,9 @@ chartAreaHeight=300
 fillColor='cyan'
 />
 
-## <u>Nombre de ventes réalisé par employé par ordre décroissant</u>
+## <u>Requête n° 2</u>
+
+_Nombre de ventes réalisé par employé par ordre décroissant_
 
 <!-- Requête SQL -->
 
@@ -71,7 +75,9 @@ order by quantity desc;
     <Column id=quantity align=center title="Quantite" fmt='# ###' totalAgg=sum contentType=colorscale colorScale='green'/>
 </DataTable>
 
-## <u>Somme des ventes journalières par trie croissant</u>
+## <u>Requête n° 3</u>
+
+_Somme des ventes journalières par trie croissant_
 
 <!-- Requête SQL -->
 
@@ -103,7 +109,9 @@ order by
     <ReferenceArea xMin='2020-03-01' xMax='2020-04-30' label='Covid'/>
 </LineChart>
 
-## <u>Somme des ventes par année par trie croissant</u>
+## <u>Requête n° 4</u>
+
+_Somme des ventes par année par trie croissant_
 
 <!-- Requête SQL -->
 
@@ -139,7 +147,9 @@ yFmt='# ### " €"'
 fillColor='yellow'
 />
 
-## <u>Moyenne des ventes par année et par employé</u>
+## <u>Requête n° 5</u>
+
+_Moyenne des ventes par année et par employé_
 
 <!-- Requête SQL -->
 
@@ -168,7 +178,9 @@ order by
     <Column id=sales_avg align=center title="CAHT realise" totalAgg=mean fmt='# ### " €"' contentType=colorscale scaleColor=brown/>
 </DataTable>
 
-## <u>Donner la liste des 5 employés ayant réalisé le plus gros du CAHT</u>
+## <u>Requête n° 6</u>
+
+_Donner la liste des 5 employés ayant réalisé le plus gros du CAHT_
 
 <!-- Requête SQL -->
 
